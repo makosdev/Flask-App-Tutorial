@@ -16,3 +16,10 @@ pip install Flask
 python app.py
 
 Open your web browser and go to URL that you see in your vs code terminal to see the "Hello, World!" message on your webpage.
+
+
+## Video Tutorials
+
+- [Getting Started with Flask](https://youtu.be/GlsEt3vVKoI)
+
+Stay tuned for more videos in this series, and don't forget to subscribe to my YouTube channel for updates!
