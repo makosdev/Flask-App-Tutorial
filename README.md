@@ -1,4 +1,4 @@
-## Flask-App-Tutorial
+## Python-Flask-Tutorial
 
 
 Learn to build web applications with Flask in Python! This repository contains a collection of videos covering everything from Flask setup to app deployment. The purpose of this repository is to teach beginners how to build web applications using Flask. Flask is a popular web framework for Python that provides tools and features for handling HTTP requests and responses, managing sessions, working with databases, and creating dynamic HTML pages.
