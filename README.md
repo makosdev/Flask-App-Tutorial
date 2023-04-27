@@ -1,25 +1,26 @@
-# Flask-App-Tutorial
-Learn to build web applications with Flask in Python! This repository contains a collection of videos covering everything from Flask setup to app deployment. Perfect for beginners and experienced developers alike.
+## Flask-App-Tutorial
 
 
-This is a simple Flask application that displays a "Hello, World!" message on the homepage. 
-It's a great starting point for anyone who wants to learn Flask and build web applications using Python.
+Learn to build web applications with Flask in Python! This repository contains a collection of videos covering everything from Flask setup to app deployment. The purpose of this repository is to teach beginners how to build web applications using Flask. Flask is a popular web framework for Python that provides tools and features for handling HTTP requests and responses, managing sessions, working with databases, and creating dynamic HTML pages.
 
 
-1. Install Python if it's not already installed on your computer.
- -https://www.python.org/downloads/
+To get started, you'll need to:
 
-2. Install Flask using pip:
-pip install Flask
+- Install Python if it's not already installed on your computer. [Click here](https://www.python.org/downloads/) to download Python.
 
-3. Run the application:
-python app.py
+- Install Flask using pip: `pip install Flask`
 
-Open your web browser and go to URL that you see in your vs code terminal to see the "Hello, World!" message on your webpage.
+- Run the application: `python app.py`
+
+- Go to `http://127.0.0.1:5000`
+
+# Video Tutorials:
+
+- [Youtube Channel](https://www.youtube.com/channel/UCOdfRndfPV2UWrAqnx_sWbA)
+
+Stay tuned for more videos in this series, and don't forget to subscribe to my YouTube channel!
 
 
-## Video Tutorials
+# License:
 
-- [Getting Started with Flask](https://youtu.be/GlsEt3vVKoI)
-
-Stay tuned for more videos in this series, and don't forget to subscribe to my YouTube channel for updates!
+This project is licensed under the MIT License
