@@ -16,7 +16,7 @@ To get started, you'll need to:
 
 # Video Tutorials:
 
-- [Youtube Channel](https://www.youtube.com/channel/UCOdfRndfPV2UWrAqnx_sWbA)
+- [Flask Tutorial Playlist](https://www.youtube.com/watch?v=xGFcSk8Tqaw&list=PLBV_QEHvkR53SatjlqqDfPcQCuLo88s_E)
 
 Stay tuned for more videos in this series, and don't forget to subscribe to my YouTube channel!
 
