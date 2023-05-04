@@ -18,7 +18,7 @@ To get started, you'll need to:
 
 - [Flask Tutorial Playlist](https://www.youtube.com/watch?v=xGFcSk8Tqaw&list=PLBV_QEHvkR53SatjlqqDfPcQCuLo88s_E)
 
-Stay tuned for more videos in this series, and don't forget to subscribe to my YouTube channel!
+Stay tuned for more videos in this series, and don't forget to subscribe to my YouTube channel! Also dont forget to check the other videos too :)
 
 
 # License:
